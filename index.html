@@ -57,12 +57,12 @@
 
 				 	a:link {
 					    text-decoration: none;
-					    color: rgb(200,200,200);
+					    color: rgb(255,200,200);
 					}
 
 					a:visited {
 					    text-decoration: none;
-					    color: rgb(180,180,200);
+					    color: rgb(255,180,200);
 					}
 
 					a:hover {
@@ -72,22 +72,43 @@
 
 					a:active {
 					    text-decoration: overline;
+					    color: rgb(255, 220, 220);
+					}
+
+					a .navlinks:link {
+					    text-decoration: none;
+					    color: rgb(200,200,200);
+					}
+
+					a .navlinks:visited {
+					    text-decoration: none;
+					    color: rgb(180,180,200);
+					}
+
+					a .navlinks:hover {
+					    text-decoration: none;
+					    color: #FFFFFF;
+					}
+
+					a .navlinks:active {
+					    text-decoration: overline;
 					    color: rgb(220, 220, 220);
 					}
+
 				 </style>
 	</head>
 
 	<body>
 			<header>
-				<h1>The Legendary Shopping List</h1>
+				<a href="index.html"><h1>The Legendary Shopping List</h1></a>
 			</header>
 
 			<section>
 
 				<div id="nav">
-					<a href="index.html">the list</a>
+					<a href="index.html" class="navlinks">the list</a>
 					&nbsp;&nbsp;&nbsp;&nbsp;
-					<a href="details.html">details</a>
+					<a href="details.html" class="navlinks">details</a>
 				</div>
 
 			</section>
