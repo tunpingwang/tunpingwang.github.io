@@ -76,10 +76,19 @@
 						font-size: 12px;
 					}
 
-					iframe {
-						margin-top: 5%;
-						margin-left: 30%;
-						margin-right: 30%;
+					#vembed {
+						position: relative;
+						padding-bottom: 56.25%; /* 16:9 */
+						padding-top: 25px;
+						height: 0;
+					}
+
+					#vembed iframe {
+						position: absolute;
+						top: 0;
+						left: 0;
+						width: 100%;
+						height: 100%;
 					}
 
 				 </style>
@@ -120,7 +129,9 @@
 
 			<section>
 
-				<iframe width="560" height="315" src="//www.youtube.com/embed/jKAcT-RY0ZQ" frameborder="0" allowfullscreen></iframe>
+				<div id="vembed">
+					<iframe src="//www.youtube.com/embed/jKAcT-RY0ZQ" frameborder="0" allowfullscreen></iframe>
+				</div>
 
 			</section>
 
