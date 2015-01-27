@@ -12,7 +12,7 @@ body {
 #headline {
 	color: rgb(100,100,100);	
 	font-family: "felt-tip-senior",cursive;
-	text-transform: lowercase;
+	text-transform: capitalize;
 	font-size: 3em;
 }
 
