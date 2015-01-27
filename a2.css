@@ -1,0 +1,27 @@
+body {
+	background-color: rgb(255,255,255);
+}
+
+
+.para {
+	margin-top: 50px;
+	text-align: center;
+
+}
+
+#headline {
+	color: rgb(100,100,100);	
+	font-family: "felt-tip-senior",cursive;
+	text-transform: lowercase;
+}
+
+#st {
+	font-size: 1.5em;
+	color: rgb(50,50,50);
+
+}
+
+#nd {
+	font-size: 1.1em;
+	color: rgb(70,70,70);
+}
