@@ -13,15 +13,15 @@ header {
 
 nav ul {
 	list-style: none;
+	text-align: center;
 	margin: 0;
 	padding: 0;
 	height: 50px;
 	line-height: 50px;
 }
 
-nav ul il {
+nav ul li {
 	display: inline-block;
-	text-align: center;
 	padding: 30px;
 }
 
