@@ -12,12 +12,15 @@ header {
 }
 
 nav ul {
-		display: inline;
-		list-style: none;
+	list-style: none;
+}
+
+nav il {
+	display: inline;
+	padding: 30px;
 }
 
 nav a {
-	display: inline;
 	text-decoration: none;
 	font-family: "letter-gothic-std",sans-serif;
 }
