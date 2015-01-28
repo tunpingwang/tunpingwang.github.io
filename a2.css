@@ -106,6 +106,10 @@ footer {
 	height: 20px;
 }
 
+#socialicons a:hover {
+	color: rgb(200,200,100);
+}
+
 #fblike {
 	display: block;
 	float: left;
