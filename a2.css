@@ -13,6 +13,7 @@ header {
 
 header a {
 	text-decoration: none;
+	color: rgb(70,70,70);
 }
 
 nav ul {
