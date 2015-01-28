@@ -148,7 +148,9 @@ footer {
 
 #emailme {
 	text-align: center;
-	margin: 10% auto 10% auto;
+	margin: 5% auto 5% auto;
+	font-family: "minerva-modern",sans-serif;
+	color: rgb(80,80,80);
 }
 
 #commentbox {
