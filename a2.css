@@ -11,6 +11,13 @@ header {
 	margin-top: 50px;
 }
 
+nav {
+	display: inline;
+	margin-left: auto;
+	margin-right: auto;
+	
+}
+
 .para {
 	margin-top: 50px;
 	text-align: center;
