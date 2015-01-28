@@ -146,9 +146,13 @@ footer {
 	display: block;
 }
 
-#form {
-	display: block;
+#emailme {
+	text-align: center;
 	margin: 10% auto 10% auto;
+}
+
+#commentbox {
+	height: 250px
 }
 
 footer {
