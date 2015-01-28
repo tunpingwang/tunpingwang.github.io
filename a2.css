@@ -13,14 +13,13 @@ header {
 
 nav {
 	text-align: center;
-	margin: 0;
-	padding: 10px;
 	text-decoration: none;
 	font-family: "letter-gothic-std",sans-serif;
 }
 
 nav ul {
 		display: inline;
+		list-style: none;
 }
 
 nav a {
