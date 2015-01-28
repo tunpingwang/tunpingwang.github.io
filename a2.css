@@ -91,9 +91,9 @@ nav a:active {
 #socialicons {
 	float: right;
 	margin-left: auto;
-	margin-right: 5%;
+	margin-right: 15%;
 	display: inline-block;
-	margin-bottom: 50px;
+	margin-bottom: 70px;
 }
 
 #socialicons img {
@@ -105,7 +105,7 @@ nav a:active {
 #fblike {
 	display: block;
 	float: left;
-	margin-left: 5%;
+	margin-left: 15%;
 	margin-right: auto;
 }
 
