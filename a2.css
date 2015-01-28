@@ -2,6 +2,11 @@ body {
 	background-color: rgb(255,255,255);
 }
 
+header {
+	font-family: "felt-tip-senior",cursive;
+	text-transform: uppercase;
+	font-size: 4em;
+}
 
 .para {
 	margin-top: 50px;
