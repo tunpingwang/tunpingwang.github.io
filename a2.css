@@ -13,10 +13,11 @@ header {
 
 nav ul {
 	list-style: none;
+	display: inline;
+
 }
 
 nav il {
-	display: inline;
 	padding: 30px;
 }
 
