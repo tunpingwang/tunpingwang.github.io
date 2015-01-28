@@ -75,6 +75,11 @@ nav a:active {
 	text-indent: 20px;
 }
 
+#vimeo {
+	margin-right: auto;
+	margin-left: auto;
+}
+
 #btt {
 	font-size: 1.2em;
 	text-align: center;
