@@ -11,7 +11,7 @@ header {
 	margin-top: 50px;
 }
 
-.nav {
+nav {
 	text-align: center;
 	margin: 0;
 	padding: 0;
@@ -19,27 +19,27 @@ header {
 	font-family: "letter-gothic-std",sans-serif;
 }
 
-.nav li {
+nav ul {
 		display: inline;
 }
 
-.nav a {
+nav a {
 	display: inline-block;
 }
 
-.nav a:link {
+nav a:link {
 	color: rgb(90,90,90);
 }
 
-.nav a:visited {
+nav a:visited {
 	color: rgb(120,120,120);
 }
 
-.nav a:hover {
+nav a:hover {
 	color: rgb(200,100,100);
 }
 
-.nav a:active {
+nav a:active {
 	color: rgb(180,180,255);
 }
 
