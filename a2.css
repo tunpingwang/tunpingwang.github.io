@@ -91,13 +91,14 @@ nav a:active {
 #socialicons {
 	float: right;
 	margin-left: 5%;
-	margin-right: 5%;
+	margin-right: auto;
 	display: inline-block;
 }
 
 #socialicons img {
 	padding: 15px;
 	height: 20px;
+	color: rgb(90,90,90);
 }
 
 #fblike {
