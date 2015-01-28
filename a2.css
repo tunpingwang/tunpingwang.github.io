@@ -88,8 +88,21 @@ nav a:active {
 	color: rgb(200,100,100);
 }
 
+#socialicons {
+	float: right;
+	margin-left: 5%;
+	margin-right: 5%;
+	display: inline-block;
+}
+
+#socialicons img {
+	padding: 15px;
+	height: 20px;
+}
+
 #fblike {
 	display: block;
+	float: right;
 	margin-right: 5%;
 	margin-left: auto;
 }
