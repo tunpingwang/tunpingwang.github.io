@@ -127,6 +127,10 @@ footer {
 	margin-right: auto;
 }
 
+#players {
+	text-align: center;
+}
+
 #sumie {
 	margin: 5% auto 5% auto;
 	display: block;
