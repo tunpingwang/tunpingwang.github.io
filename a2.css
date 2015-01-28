@@ -11,12 +11,6 @@ header {
 	margin-top: 50px;
 }
 
-nav {
-	text-align: center;
-	text-decoration: none;
-	font-family: "letter-gothic-std",sans-serif;
-}
-
 nav ul {
 		display: inline;
 		list-style: none;
@@ -24,6 +18,8 @@ nav ul {
 
 nav a {
 	display: inline;
+	text-decoration: none;
+	font-family: "letter-gothic-std",sans-serif;
 }
 
 nav a:link {
