@@ -127,6 +127,10 @@ footer {
 	margin-right: auto;
 }
 
+#sumie {
+	margin: auto, 5%, auto, 5%;
+}
+
 footer {
 	margin-bottom: 50px;
 }
