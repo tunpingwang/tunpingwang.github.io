@@ -11,31 +11,33 @@ header {
 	margin-top: 50px;
 }
 
-li {
-	display: inline;
-	margin-left: auto;
-	margin-right: auto;
+.nav {
+	text-align: center;
 	font-family: "letter-gothic-std",sans-serif;
 	color: rgb(90,90,90);
 }
 
-li a {
+.nav li {
+		display: inline;
+}
+
+.nav a {
 	text-decoration: none;
 }
 
-li a:link {
+.nav a:link {
 	color: rgb(90,90,90);
 }
 
-li a:visited {
+.nav a:visited {
 	color: rgb(120,120,120);
 }
 
-li a:hover {
+.nav a:hover {
 	color: rgb(200,100,100);
 }
 
-li a:active {
+.nav a:active {
 	color: rgb(180,180,255);
 }
 
