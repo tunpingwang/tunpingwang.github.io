@@ -63,7 +63,8 @@ nav a:active {
 	font-family: "felt-tip-senior",cursive;
 	text-transform: capitalize;
 	font-size: 3em;
-	line-height: 100px;
+	margin-top: -2%;
+	margin-bottom: -2%;
 }
 
 #st {
