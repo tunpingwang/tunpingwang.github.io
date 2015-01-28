@@ -74,8 +74,9 @@ nav a:active {
 	font-size: 1.2em;
 	text-align: center;
 	font-family: "felt-tip-senior",cursive;
-	color: rgb(150,150,150);
+	color: rgb(150,150,200);
 	text-decoration: none;
+	text-transform: uppercase;
 }
 
 #btt a:hover {
