@@ -8,7 +8,7 @@ header {
 	font-size: 4em;
 	text-align: center;
 	color: rgb(100,100,100);
-	margin: -70px;
+	margin: -5%;
 }
 
 header a {
@@ -63,7 +63,7 @@ nav a:active {
 	font-family: "felt-tip-senior",cursive;
 	text-transform: capitalize;
 	font-size: 3em;
-	margin-bottom: 0px;
+	margin: -5%;
 }
 
 #st {
