@@ -7,6 +7,8 @@ header {
 	text-transform: uppercase;
 	font-size: 4em;
 	text-align: center;
+	color: rgb(70,70,70);
+	margin-top: 50px;
 }
 
 .para {
