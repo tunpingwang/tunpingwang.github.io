@@ -85,7 +85,7 @@ nav a:active {
 	margin-bottom: 70px;
 }
 
-#btt {
+.btt {
 	font-size: 1.2em;
 	text-align: center;
 	font-family: "felt-tip-senior",cursive;
@@ -94,7 +94,7 @@ nav a:active {
 	text-transform: uppercase;
 }
 
-#btt a:hover {
+.btt a:hover {
 	color: rgb(200,100,100);
 }
 
