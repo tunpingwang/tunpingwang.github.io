@@ -157,6 +157,12 @@ footer {
 	height: 200px
 }
 
+#textbox {
+	width: 300px;
+	height:100px;
+	border:solid 1px rgb(190,190,190);
+}
+
 footer {
 	margin-bottom: 50px;
 }
