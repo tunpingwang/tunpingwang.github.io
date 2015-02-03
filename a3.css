@@ -10,7 +10,7 @@
 
 #wrapper2 {
 	max-width: 90%;
-	margin-left: 5%
+	margin: 0 auto;
 }
 
 #left {
@@ -23,7 +23,6 @@
 	color: rgb(80,80,80);
 	text-indent: 50px;
 	line-height: 1.3em;
-	margin: 0 auto;
 	padding: 15px;
 }
 
@@ -42,7 +41,6 @@
 	color: rgb(80,80,80);
 	text-indent: 50px;
 	line-height: 1.3em;
-	margin: 0 auto;
 	padding: 15px;
 }
 
