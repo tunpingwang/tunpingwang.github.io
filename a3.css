@@ -5,10 +5,32 @@
 	text-transform: capitalize;
 	font-size: 3em;
 	margin-top: 50px;
-	margin-bottom: -2%;
+	margin-bottom: 2%;
+}
+
+#wrapper2 {
+	max-width: 95%;
 }
 
 #left {
+	float: left;
+	max-width: 30%;
+	max-height: 200px;
+	overflow: auto;
+	font-size: 1.1em;
+	font-family: "minerva-modern",sans-serif;
+	color: rgb(80,80,80);
+	text-indent: 50px;
+	line-height: 1.3em;
+	margin-left: 5%
+}
+
+#left h3 {
+	text-indent: 0;
+	text-align: center;
+}
+
+#right {
 	float: left;
 	max-width: 30%;
 	max-height: 200px;
