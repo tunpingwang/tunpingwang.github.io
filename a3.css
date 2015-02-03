@@ -14,6 +14,7 @@
 
 #left {
 	float: left;
+	display: inline-block;
 	max-width: 30%;
 	max-height: 200px;
 	overflow: auto;
@@ -22,7 +23,7 @@
 	color: rgb(80,80,80);
 	text-indent: 50px;
 	line-height: 1.3em;
-	margin-left: 5%
+	margin-left: 0 auto;
 }
 
 #left h3 {
@@ -32,6 +33,7 @@
 
 #right {
 	float: left;
+	display: inline-block;
 	max-width: 30%;
 	max-height: 200px;
 	overflow: auto;
@@ -40,7 +42,12 @@
 	color: rgb(80,80,80);
 	text-indent: 50px;
 	line-height: 1.3em;
-	margin-left: 5%
+	margin-left: 0 auto;
+}
+
+#right h3 {
+	text-indent: 0;
+	text-align: center;
 }
 
 #thumbnails {
