@@ -1,3 +1,23 @@
+#title2 {
+	text-align: center;
+	color: rgb(100,100,100);	
+	font-family: "felt-tip-senior",cursive;
+	text-transform: capitalize;
+	font-size: 3em;
+	margin-top: 50px;
+	margin-bottom: -2%;
+}
+
+#left {
+	float: left;
+	max-width: 30%;
+	font-size: 1.5em;
+	font-family: "minerva-modern",sans-serif;
+	color: rgb(80,80,80);
+	text-indent: 50px;
+	line-height: 1.7em;
+}
+
 #thumbnails {
 	float: left
 }
