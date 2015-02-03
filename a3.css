@@ -14,7 +14,6 @@
 }
 
 #left {
-	float: left;
 	display: inline-block;
 	max-width: 30%;
 	max-height: 200px;
@@ -24,7 +23,7 @@
 	color: rgb(80,80,80);
 	text-indent: 50px;
 	line-height: 1.3em;
-	margin-left: 0;
+	margin-left: auto;
 	margin-right: auto;
 	padding: 15px;
 }
@@ -35,7 +34,6 @@
 }
 
 #right {
-	float: left;
 	display: inline-block;
 	max-width: 30%;
 	max-height: 200px;
