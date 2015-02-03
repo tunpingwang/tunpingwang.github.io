@@ -23,8 +23,8 @@
 	color: rgb(80,80,80);
 	text-indent: 50px;
 	line-height: 1.3em;
-	margin-left: 3% auto;
-	margin-right: 3% auto;
+	margin: 0 auto;
+	padding: 15px;
 }
 
 #left h3 {
@@ -43,8 +43,8 @@
 	color: rgb(80,80,80);
 	text-indent: 50px;
 	line-height: 1.3em;
-	margin-left: 3% auto;
-	margin-right: 3% auto;
+	margin: 0 auto;
+	padding: 15px;
 }
 
 #right h3 {
