@@ -13,7 +13,7 @@
 	margin: 0 auto;
 }
 
-#left {
+.article2 {
 	display: inline-block;
 	max-width: 30%;
 	max-height: 200px;
@@ -26,25 +26,7 @@
 	padding: 15px;
 }
 
-#left h3 {
-	text-indent: 0;
-	text-align: center;
-}
-
-#right {
-	display: inline-block;
-	max-width: 30%;
-	max-height: 200px;
-	overflow: auto;
-	font-size: 1.1em;
-	font-family: "minerva-modern",sans-serif;
-	color: rgb(80,80,80);
-	text-indent: 50px;
-	line-height: 1.3em;
-	padding: 15px;
-}
-
-#right h3 {
+.article2 h3 {
 	text-indent: 0;
 	text-align: center;
 }
