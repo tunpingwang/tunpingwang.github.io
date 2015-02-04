@@ -4,14 +4,7 @@ Issues
 1. Text Becomes Invisible
 --
 
-the following styling for text fading has some strange issues (*I only wrote for webkit for now*).
-
-this block contains a heading before the paragraph. when displayed, the following issues occur: 
-
-1. first, all texts appear to be invisible for unknown reasons.
-2. when highlighted and/or zoomed in, text in **paragraph** may start to display with correct styling effects. The heading may still be invisible at this point.
-3. highlight the **heading** and zoom in again, then the heading may start to appear.
-4. after reloading/remaining on browser tab for some time, text may appear 
+Below is the styling code for text fading, which has some strange issues (*I only wrote for webkit for now*).
 
 ```html
 <section class="article2">
@@ -44,19 +37,15 @@ text-align: center;
 }
 ```
 
-IMAGES:
+**When shown in browser, the following issues may occur:**
 
-**1. text block becomes invisible** (*text block is below the "double liked!"*)
-
+1. first, all texts appear to be invisible for unknown reasons. (*text block is below the "Double Liked"*)
 ![invisible]
 (http://i.imgur.com/hmCyNe5.jpg)
-
-**2. after highlighting & zoomed in, paragraph text appears**
-
+2. after highlighted and/or zoomed in, text in **paragraph** may start to display with correct styling effects. The heading may still be invisible at this point.
 ![paragraph]
 (http://i.imgur.com/MqHlj5D.jpg)
-
-**3. highlight & zoom, now heading appears**
-
+3. highlight the **heading** and zoom in again, then the heading may re-appear.
 ![heading]
 (http://i.imgur.com/QNF4VMt.jpg)
+4. However, after reloading/having page remaining on browser tab for some time, this problem sometimes goes away. Is it something to do with caching?
