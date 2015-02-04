@@ -20,6 +20,7 @@
 	max-height: 200px;
 	overflow: hidden;
 	text-overflow: ellipsis;
+    -webkit-background-clip: text;
 	font-size: 1.1em;
 	font-family: "minerva-modern",sans-serif;
 	color: rgb(80,80,80);
