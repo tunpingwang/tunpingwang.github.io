@@ -43,6 +43,9 @@ text-indent: 0;
 text-align: center;
 }
 ```
+
+IMAGES:
+
 **1. text block becomes invisible** (*text block is below the "double liked!"*)
 
 ![invisible]
