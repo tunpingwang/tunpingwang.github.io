@@ -13,29 +13,30 @@ this block contains a heading before the paragraph. when displayed, the followin
 - highlight the **heading** and zoom in again, then the heading may start to appear.
 - after reloading/remaining on browser tab for some time, text may appear 
 
-	<section class="article2">
-		<h3>Title of 1st article</h3>
 
-		<p>Serp derpler ter herp berp derpy herpler. Derperker derps merp ner perper herderder derpler herp derp. Derperker sherpus derps der berp derpy.</p>
-	</section>
+<section class="article2">
+	<h3>Title of 1st article</h3>
 
-	.article2 {
-		max-width: 40%;
-		height: 300px;
-		margin: 20px auto 20px auto;
-		font-family: "minerva-modern",sans-serif;
-		text-indent: 50px;
-		line-height: 1.3em;
-		display: block;
-		overflow: hidden;
-		text-overflow: ellipsis;
-	    content: "";
-	    background: -webkit-linear-gradient(#000 120px, #fff);
-	   -webkit-background-clip: text;
-	   -webkit-text-fill-color: transparent;
-	}
+	<p>Serp derpler ter herp berp derpy herpler. Derperker derps merp ner perper herderder derpler herp derp. Derperker sherpus derps der berp derpy.</p>
+</section>
 
-	.article2 h3 {
-	text-indent: 0;
-	text-align: center;
-	}
+.article2 {
+	max-width: 40%;
+	height: 300px;
+	margin: 20px auto 20px auto;
+	font-family: "minerva-modern",sans-serif;
+	text-indent: 50px;
+	line-height: 1.3em;
+	display: block;
+	overflow: hidden;
+	text-overflow: ellipsis;
+    content: "";
+    background: -webkit-linear-gradient(#000 120px, #fff);
+   -webkit-background-clip: text;
+   -webkit-text-fill-color: transparent;
+}
+
+.article2 h3 {
+text-indent: 0;
+text-align: center;
+}
