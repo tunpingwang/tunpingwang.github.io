@@ -1,7 +1,7 @@
 Issues
 ==
 
-Text Becomes Invisible
+1. Text Becomes Invisible
 --
 
 the following styling for text fading has some strange issues (*I only wrote for webkit for now*).
@@ -43,3 +43,17 @@ text-indent: 0;
 text-align: center;
 }
 ```
+1. text becomes invisible
+
+![invisible]
+{http://i.imgur.com/hmCyNe5.jpg}
+
+2. after highlighting & zoomed in, paragraph text appears
+
+![paragraph]
+{http://i.imgur.com/MqHlj5D.jpg}
+
+3. highlight & zoom to make heading appear
+
+![heading]
+{http://i.imgur.com/QNF4VMt.jpg}
