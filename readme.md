@@ -15,12 +15,9 @@ this block contains a heading before the paragraph. when displayed, the followin
 
 ```html
 <section class="article2">
-
-<h3>Title of 1st article </h3>
-
-<p>Serp derpler ter herp berp derpy herpler. Derperker derps merp ner perper herderder derpler herp derp. Derperker sherpus derps der berp derpy.
-</p>
-
+	<h3>Title of 1st article </h3>
+	<p>Serp derpler ter herp berp derpy herpler. Derperker derps merp ner perper herderder derpler herp derp. Derperker sherpus derps der berp derpy.
+	</p>
 </section>
 ```
 
