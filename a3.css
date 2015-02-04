@@ -15,11 +15,11 @@
 }
 
 .article2 {
-	display: inline-block;
+	display: block;
 	max-width: 30%;
-	max-height: 500px;
-	vertical-align: top;
-	overflow: auto;
+	max-height: 200px;
+	overflow: hidden;
+	text-overflow: ellipsis;
 	font-size: 1.1em;
 	font-family: "minerva-modern",sans-serif;
 	color: rgb(80,80,80);
