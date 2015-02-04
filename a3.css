@@ -23,6 +23,7 @@
 	    -webkit-text-fill-color: transparent;
 	    -webkit-background-clip: text;
 	    background: -webkit-linear-gradient(#000 120px, #fff);
+        content: "";
 	font-size: 1.1em;
 	font-family: "minerva-modern",sans-serif;
 	color: rgb(80,80,80);
