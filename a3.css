@@ -23,6 +23,7 @@
 	    -webkit-text-fill-color: transparent;
 	    -webkit-background-clip: text;
 	    background: -webkit-linear-gradient(#000 120px, #fff);
+	    background: linear-gradient(#000 120px, #fff);
         content: "";
 	font-size: 1.1em;
 	font-family: "minerva-modern",sans-serif;
@@ -32,6 +33,9 @@
 	margin-right: auto;
 	padding: 15px;
 }
+
+	/*color: rgb(80,80,80);*/
+
 
 .article2 h3 {
 	text-indent: 0;
