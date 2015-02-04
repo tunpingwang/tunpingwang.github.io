@@ -23,6 +23,8 @@ this block contains a heading before the paragraph. when displayed, the followin
 
 ---
 
+---
+
 .article2 {
 max-width: 40%;
 height: 300px;
@@ -43,3 +45,5 @@ background: -webkit-linear-gradient(#000 120px, #fff);
 text-indent: 0;
 text-align: center;
 }
+
+---
