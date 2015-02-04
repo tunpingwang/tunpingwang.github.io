@@ -21,6 +21,7 @@
 	overflow: hidden;
 	text-overflow: ellipsis;
     -webkit-text-fill-color: transparent;
+    background: -webkit-linear-gradient(#000 120px, #fff);
 	font-size: 1.1em;
 	font-family: "minerva-modern",sans-serif;
 	color: rgb(80,80,80);
