@@ -17,6 +17,7 @@
 .article2 {
 	display: inline-block;
 	max-width: 30%;
+	overflow: auto;
 	font-size: 1.1em;
 	font-family: "minerva-modern",sans-serif;
 	color: rgb(80,80,80);
