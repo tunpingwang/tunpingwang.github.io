@@ -46,14 +46,14 @@ text-align: center;
 1. text becomes invisible
 
 ![invisible]
-{http://i.imgur.com/hmCyNe5.jpg}
+(http://i.imgur.com/hmCyNe5.jpg)
 
 2. after highlighting & zoomed in, paragraph text appears
 
 ![paragraph]
-{http://i.imgur.com/MqHlj5D.jpg}
+(http://i.imgur.com/MqHlj5D.jpg)
 
 3. highlight & zoom to make heading appear
 
 ![heading]
-{http://i.imgur.com/QNF4VMt.jpg}
+(http://i.imgur.com/QNF4VMt.jpg)
