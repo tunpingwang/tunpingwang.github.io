@@ -1,16 +1,41 @@
-testing 101 yeah no trying
-====
+Issues
+==
 
-testing 101 yeah no trying
+Text Becomes Invisible
 --
 
-*testing 101 yeah no trying*
+the following styling for text fading has some strange issues (*I only wrote for webkit for now*).
 
-**testing 101 yeah no trying**
+this block contains a heading before the paragraph. when displayed, the following issues occur: 
 
-- testing 101 yeah no trying
-- testing 101 yeah no trying
+- first, all texts appear to be invisible for unknown reasons.
+- when highlighted and/or zoomed in, text in **paragraph** may start to display with correct styling effects. The heading may still be invisible at this point.
+- highlight the **heading** and zoom in again, then the heading may start to appear.
+- after reloading/remaining on browser tab for some time, text may appear 
 
--- testing 101 yeah no trying
+	<section class="article2">
+		<h3>Title of 1st article</h3>
 
-	testing 101 yeah no trying
+		<p>Serp derpler ter herp berp derpy herpler. Derperker derps merp ner perper herderder derpler herp derp. Derperker sherpus derps der berp derpy.</p>
+	</section>
+
+	.article2 {
+		max-width: 40%;
+		height: 300px;
+		margin: 20px auto 20px auto;
+		font-family: "minerva-modern",sans-serif;
+		text-indent: 50px;
+		line-height: 1.3em;
+		display: block;
+		overflow: hidden;
+		text-overflow: ellipsis;
+	    content: "";
+	    background: -webkit-linear-gradient(#000 120px, #fff);
+	   -webkit-background-clip: text;
+	   -webkit-text-fill-color: transparent;
+	}
+
+	.article2 h3 {
+	text-indent: 0;
+	text-align: center;
+	}
