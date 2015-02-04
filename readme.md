@@ -43,12 +43,15 @@ text-align: center;
 
 ![invisible]
 (http://i.imgur.com/hmCyNe5.jpg)
+
 2. after highlighted and/or zoomed in, text in **paragraph** may start to display with correct styling effects. The heading may still be invisible at this point.
 
 ![paragraph]
 (http://i.imgur.com/MqHlj5D.jpg)
+
 3. highlight the **heading** and zoom in again, then the heading may re-appear.
 
 ![heading]
 (http://i.imgur.com/QNF4VMt.jpg)
+
 4. However, after reloading/having page remaining on browser tab for some time, this problem sometimes goes away. Is it something to do with caching?
