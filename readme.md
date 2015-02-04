@@ -43,17 +43,17 @@ text-indent: 0;
 text-align: center;
 }
 ```
-1. text block becomes invisible (text block is below the "double liked!")
+**1. text block becomes invisible** (*text block is below the "double liked!"*)
 
 ![invisible]
 (http://i.imgur.com/hmCyNe5.jpg)
 
-2. after highlighting & zoomed in, paragraph text appears
+**2. after highlighting & zoomed in, paragraph text appears**
 
 ![paragraph]
 (http://i.imgur.com/MqHlj5D.jpg)
 
-3. highlight & zoom to make heading appear
+**3. highlight & zoom, now heading appears**
 
 ![heading]
 (http://i.imgur.com/QNF4VMt.jpg)
