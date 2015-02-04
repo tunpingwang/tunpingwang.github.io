@@ -8,10 +8,10 @@ the following styling for text fading has some strange issues (*I only wrote for
 
 this block contains a heading before the paragraph. when displayed, the following issues occur: 
 
-- first, all texts appear to be invisible for unknown reasons.
-- when highlighted and/or zoomed in, text in **paragraph** may start to display with correct styling effects. The heading may still be invisible at this point.
-- highlight the **heading** and zoom in again, then the heading may start to appear.
-- after reloading/remaining on browser tab for some time, text may appear 
+1. first, all texts appear to be invisible for unknown reasons.
+2. when highlighted and/or zoomed in, text in **paragraph** may start to display with correct styling effects. The heading may still be invisible at this point.
+3. highlight the **heading** and zoom in again, then the heading may start to appear.
+4. after reloading/remaining on browser tab for some time, text may appear 
 
 ```html
 <section class="article2">
@@ -43,7 +43,7 @@ text-indent: 0;
 text-align: center;
 }
 ```
-1. text becomes invisible
+1. text block becomes invisible (text block is below the "double liked!")
 
 ![invisible]
 (http://i.imgur.com/hmCyNe5.jpg)
