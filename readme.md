@@ -43,7 +43,7 @@ text-align: center;
 
 	![invisible](http://i.imgur.com/hmCyNe5.jpg)
 
-2. after highlighted and/or zoomed in, text in **paragraph** may start to display with correct styling effects. The heading may still be invisible at this point.
+2. after being highlighted and/or zoomed in, text in **paragraph** may start to display with correct styling effects. The heading may still be invisible at this point.
 
 	![paragraph](http://i.imgur.com/MqHlj5D.jpg)
 
