@@ -1,7 +1,7 @@
-Issues
+Unsolved Issues
 ==
 
-1. Text Becomes Invisible
+1. Text Turning Invisible
 --
 
 **Below is the styling code for text fading, which has some strange issues** (*I've only written for & tested on webkit browsers for now*).
@@ -51,4 +51,4 @@ text-align: center;
 
 	![heading](http://i.imgur.com/QNF4VMt.jpg)
 
-4. However, after reloading/having page remaining on browser tab for some time, this problem sometimes goes away. Is it something to do with caching?
+4. However, after reloading/having page remaining on browser tab for some time, this problem sometimes miraculously goes away. Is it something to do with caching?
