@@ -56,16 +56,11 @@
    -webkit-text-fill-color: transparent;
 }
 
-a#likefloat {
-	position: relative;
-  display: inline-block;
-  vertical-align: middle;
-}
-a#likefloat:after {
-  content: "";
-	position: absolute;
-	top: 0;
-	left: 0;
-  bottom: 0;
-  right: 0;
+#likefloat {
+	width: 5%;
+	height: auto;
+	position: fixed;
+	top: 10%;
+	left: 5%;
+
 }
