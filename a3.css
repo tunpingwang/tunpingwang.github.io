@@ -56,7 +56,7 @@
    -webkit-text-fill-color: transparent;
 }
 
-#likefloat {
+a#likefloat {
 	position: fixed;
 	top: 10%;
 	left: 5%;
