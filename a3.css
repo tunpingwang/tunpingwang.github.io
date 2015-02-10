@@ -59,6 +59,7 @@
 a#likefloat {
 	position: relative;
   display: inline-block;
+  vertical-align: middle;
 }
 a#likefloat:after {
   content: "";
