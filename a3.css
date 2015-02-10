@@ -55,3 +55,11 @@
    -webkit-background-clip: text;
    -webkit-text-fill-color: transparent;
 }
+
+#likefloat {
+	position: absolute;
+	float: left;
+	margin-left: 3%;
+	vertical-align: center;
+	margin-bottom: -50%;
+}
