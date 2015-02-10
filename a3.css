@@ -57,9 +57,9 @@
 }
 
 #likefloat {
-	position: absolute;
+	position: relative;
 	float: left;
 	margin-left: 3%;
 	vertical-align: center;
-	
+
 }
