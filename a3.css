@@ -56,11 +56,15 @@
    -webkit-text-fill-color: transparent;
 }
 
-#likefloat {
-	width: 5%;
-	height: auto;
-	position: fixed;
-	top: 10%;
-	left: 5%;
-
+a#likefloat {
+	position: relative;
+  display: inline-block;
+}
+a#likefloat:after {
+  content: "";
+	position: absolute;
+	top: 0;
+	left: 0;
+  bottom: 0;
+  right: 0;
 }
