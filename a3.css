@@ -14,13 +14,13 @@ body {
 }
 
 #wrapper2 {
+	background-color: rgba(255, 255, 255, 0.3);
 	max-width: 90%;
 	margin: auto;
 	text-align: center;
 }
 
 .article2 {
-	background-color: rgba(255, 255, 255, 0.3);
 	max-width: 40%;
 	height: 300px;
 	margin: 20px auto 20px auto;
@@ -40,7 +40,6 @@ body {
 
 
 .article2 h3 {
-	background-color: rgba(255, 255, 255, 0.3);
 	text-indent: 0;
 	text-align: center;
 }
