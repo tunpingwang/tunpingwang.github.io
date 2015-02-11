@@ -62,5 +62,8 @@ a#likefloat {
 	position: fixed;
 	top: 10%;
 	left: 5%;
-	width: 30px;
+}
+
+#likefloat {
+	max-width: 15%;
 }
