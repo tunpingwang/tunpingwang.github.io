@@ -56,9 +56,11 @@
    -webkit-text-fill-color: transparent;
 }
 
+a
+
 a#likefloat {
 	position: fixed;
 	top: 10%;
 	left: 5%;
-
+	max-width: 15%;
 }
