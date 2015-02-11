@@ -58,8 +58,12 @@
 
 a
 
-a#likefloat {
+#likefloat {
 	position: fixed;
-	top: 10%;
+	top: 15%;
 	left: 5%;
+}
+
+a img {
+	max-width: 10%;
 }
