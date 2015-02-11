@@ -1,3 +1,8 @@
+body {
+	background-image: url("/media/puppy-chicky2.gif");
+	background-repeat: repeat-y;
+}
+
 #title2 {
 	text-align: center;
 	color: rgb(100,100,100);	
