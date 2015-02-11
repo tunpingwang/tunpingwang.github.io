@@ -1,7 +1,7 @@
-body {
+/*body {
 	background-image: url("/media/puppy-chicky2.gif");
 	background-repeat: repeat;
-}
+}*/
 
 #title2 {
 	text-align: center;
@@ -14,7 +14,7 @@ body {
 }
 
 #wrapper2 {
-	background-color: rgba(255, 255, 255, 0.6);
+	/*background-color: rgba(255, 255, 255, 0.6);*/
 	max-width: 90%;
 	margin: auto;
 	text-align: center;
