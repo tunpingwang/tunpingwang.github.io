@@ -104,7 +104,7 @@ nav a:active {
 
 #socialicons {
 	position: fixed;
-	left: 15%;
+	right: 15%;
 	bottom: 5%;
 	/*margin-left: auto;
 	margin-right: 15%;
@@ -118,13 +118,13 @@ nav a:active {
 	height: 20px;
 }
 
-#socialicons a:hover {
+/*#socialicons a:hover {
 	color: rgb(200,200,100);
-}
+}*/
 
 #fblike {
 	position: fixed;
-	right: 15%;
+	left: 15%;
 	bottom: 5%;
 	/*display: block;
 	float: left;
