@@ -28,7 +28,7 @@
 	text-indent: 50px;
 	line-height: 1.3em;
 	display: block;
-	overflow: hidden;
+	overflow: auto;
 	text-overflow: ellipsis;
     content: "";
     background: -webkit-linear-gradient(#000 120px, #fff);
