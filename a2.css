@@ -98,17 +98,19 @@ nav a:active {
 	color: rgb(200,100,100);
 }
 
-footer {
+/*footer {
 	margin-top: 70px;
-}
+}*/
 
 #socialicons {
-	float: right;
-	margin-left: auto;
+	position: fixed;
+	left: 15%;
+	bottom: 5%;
+	/*margin-left: auto;
 	margin-right: 15%;
 	display: inline-block;
 	margin-bottom: 70px;
-	margin-top: -20px;
+	margin-top: -20px;*/
 }
 
 #socialicons img {
@@ -121,10 +123,13 @@ footer {
 }
 
 #fblike {
-	display: block;
+	position: fixed;
+	right: 15%;
+	bottom: 5%;
+	/*display: block;
 	float: left;
 	margin-left: 15%;
-	margin-right: auto;
+	margin-right: auto;*/
 }
 
 #players {
