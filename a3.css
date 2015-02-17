@@ -67,11 +67,9 @@
 	position: fixed;
 	top: 15%;
 	left: 5%;
-	opacity: 0.8;
-	max-height: 20px;
 }	
 
-/*#likefloat img {
-	max-width: 48px;
+#likefloat img {
+	max-height: 30px;
 	opacity: 0.8;
-}*/
+}
