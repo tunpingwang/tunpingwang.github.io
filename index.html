@@ -10,6 +10,17 @@
 		<link rel="stylesheet" type="text/css" href="a2.css">
 		<script src="//use.typekit.net/qxk3set.js"></script>
 		<script>try{Typekit.load();}catch(e){}</script>
+
+		function hoverAlert(el timeout)
+			  $(el).hover(function(event){
+			    $(event.currentTarget).fadeOut(timeout, function(){
+			      alert('Element has been hidden)
+			    );
+			  });
+			}
+
+			hoverAlert("h2", 4000)
+
 		<link rel="icon" type="image/png" href="media/icons/likabilityfav.png">
 
 	</head>
